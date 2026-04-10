@@ -5,7 +5,6 @@ REPO="agtnbo/mac-terminal-themes"
 BRANCH="master"
 THEMES=(Lavender Lemon Moss Rose Sky Slate Teal Wheat)
 BASE_URL="https://raw.githubusercontent.com/${REPO}/${BRANCH}"
-PLIST="$HOME/Library/Preferences/com.apple.Terminal.plist"
 
 echo "Installing mac-terminal-themes..."
 
