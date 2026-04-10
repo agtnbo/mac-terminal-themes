@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="716" height="620" viewBox="0 0 716 620">
+<defs>
+  <style>
+    .name { font: bold 13px monospace; }
+    .prompt { font: 12px monospace; }
+    .cmd { font: 12px monospace; }
+    .dot { }
+  </style>
+</defs>
+<rect width="716" height="620" fill="#f0f0f0"/>
+<rect x="12" y="12" width="340" height="140" rx="8" fill="#dbc9f2"/>
+<text x="28" y="41" class="name" fill="#1e2428">Lavender</text>
+<text x="28" y="68" class="prompt" fill="#1a7800">~</text>
+<text x="44" y="68" class="prompt" fill="#1e2428">$ ls -la</text>
+<text x="28" y="86" class="cmd" fill="#1e2428">drwxr-xr-x  </text>
+<text x="136" y="86" class="cmd" fill="#0044b8">themes/</text>
+<circle cx="35" cy="126" r="7" fill="#333340"/>
+<circle cx="53" cy="126" r="7" fill="#b80000"/>
+<circle cx="71" cy="126" r="7" fill="#1a7800"/>
+<circle cx="89" cy="126" r="7" fill="#8a6800"/>
+<circle cx="107" cy="126" r="7" fill="#0044b8"/>
+<circle cx="125" cy="126" r="7" fill="#880099"/>
+<circle cx="143" cy="126" r="7" fill="#006e80"/>
+<circle cx="161" cy="126" r="7" fill="#50555f"/>
+<rect x="364" y="12" width="340" height="140" rx="8" fill="#eff6ac"/>
+<text x="380" y="41" class="name" fill="#1e2428">Lemon</text>
+<text x="380" y="68" class="prompt" fill="#1a7800">~</text>
+<text x="396" y="68" class="prompt" fill="#1e2428">$ ls -la</text>
+<text x="380" y="86" class="cmd" fill="#1e2428">drwxr-xr-x  </text>
+<text x="488" y="86" class="cmd" fill="#0044b8">themes/</text>
+<circle cx="387" cy="126" r="7" fill="#333340"/>
+<circle cx="405" cy="126" r="7" fill="#b80000"/>
+<circle cx="423" cy="126" r="7" fill="#1a7800"/>
+<circle cx="441" cy="126" r="7" fill="#8a6800"/>
+<circle cx="459" cy="126" r="7" fill="#0044b8"/>
+<circle cx="477" cy="126" r="7" fill="#880099"/>
+<circle cx="495" cy="126" r="7" fill="#006e80"/>
+<circle cx="513" cy="126" r="7" fill="#50555f"/>
+<rect x="12" y="164" width="340" height="140" rx="8" fill="#bee0be"/>
+<text x="28" y="193" class="name" fill="#1e2428">Moss</text>
+<text x="28" y="220" class="prompt" fill="#1a7800">~</text>
+<text x="44" y="220" class="prompt" fill="#1e2428">$ ls -la</text>
+<text x="28" y="238" class="cmd" fill="#1e2428">drwxr-xr-x  </text>
+<text x="136" y="238" class="cmd" fill="#0044b8">themes/</text>
+<circle cx="35" cy="278" r="7" fill="#333340"/>
+<circle cx="53" cy="278" r="7" fill="#b80000"/>
+<circle cx="71" cy="278" r="7" fill="#1a7800"/>
+<circle cx="89" cy="278" r="7" fill="#8a6800"/>
+<circle cx="107" cy="278" r="7" fill="#0044b8"/>
+<circle cx="125" cy="278" r="7" fill="#880099"/>
+<circle cx="143" cy="278" r="7" fill="#006e80"/>
+<circle cx="161" cy="278" r="7" fill="#50555f"/>
+<rect x="364" y="164" width="340" height="140" rx="8" fill="#f7c1ca"/>
+<text x="380" y="193" class="name" fill="#1e2428">Rose</text>
+<text x="380" y="220" class="prompt" fill="#1a7800">~</text>
+<text x="396" y="220" class="prompt" fill="#1e2428">$ ls -la</text>
+<text x="380" y="238" class="cmd" fill="#1e2428">drwxr-xr-x  </text>
+<text x="488" y="238" class="cmd" fill="#0044b8">themes/</text>
+<circle cx="387" cy="278" r="7" fill="#333340"/>
+<circle cx="405" cy="278" r="7" fill="#b80000"/>
+<circle cx="423" cy="278" r="7" fill="#1a7800"/>
+<circle cx="441" cy="278" r="7" fill="#8a6800"/>
+<circle cx="459" cy="278" r="7" fill="#0044b8"/>
+<circle cx="477" cy="278" r="7" fill="#880099"/>
+<circle cx="495" cy="278" r="7" fill="#006e80"/>
+<circle cx="513" cy="278" r="7" fill="#50555f"/>
+<rect x="12" y="316" width="340" height="140" rx="8" fill="#bde1f9"/>
+<text x="28" y="345" class="name" fill="#1e2428">Sky</text>
+<text x="28" y="372" class="prompt" fill="#1a7800">~</text>
+<text x="44" y="372" class="prompt" fill="#1e2428">$ ls -la</text>
+<text x="28" y="390" class="cmd" fill="#1e2428">drwxr-xr-x  </text>
+<text x="136" y="390" class="cmd" fill="#0044b8">themes/</text>
+<circle cx="35" cy="430" r="7" fill="#333340"/>
+<circle cx="53" cy="430" r="7" fill="#b80000"/>
+<circle cx="71" cy="430" r="7" fill="#1a7800"/>
+<circle cx="89" cy="430" r="7" fill="#8a6800"/>
+<circle cx="107" cy="430" r="7" fill="#0044b8"/>
+<circle cx="125" cy="430" r="7" fill="#880099"/>
+<circle cx="143" cy="430" r="7" fill="#006e80"/>
+<circle cx="161" cy="430" r="7" fill="#50555f"/>
+<rect x="364" y="316" width="340" height="140" rx="8" fill="#bfceee"/>
+<text x="380" y="345" class="name" fill="#1e2428">Slate</text>
+<text x="380" y="372" class="prompt" fill="#1a7800">~</text>
+<text x="396" y="372" class="prompt" fill="#1e2428">$ ls -la</text>
+<text x="380" y="390" class="cmd" fill="#1e2428">drwxr-xr-x  </text>
+<text x="488" y="390" class="cmd" fill="#0044b8">themes/</text>
+<circle cx="387" cy="430" r="7" fill="#333340"/>
+<circle cx="405" cy="430" r="7" fill="#b80000"/>
+<circle cx="423" cy="430" r="7" fill="#1a7800"/>
+<circle cx="441" cy="430" r="7" fill="#8a6800"/>
+<circle cx="459" cy="430" r="7" fill="#0044b8"/>
+<circle cx="477" cy="430" r="7" fill="#880099"/>
+<circle cx="495" cy="430" r="7" fill="#006e80"/>
+<circle cx="513" cy="430" r="7" fill="#50555f"/>
+<rect x="12" y="468" width="340" height="140" rx="8" fill="#ace7dd"/>
+<text x="28" y="497" class="name" fill="#1e2428">Teal</text>
+<text x="28" y="524" class="prompt" fill="#1a7800">~</text>
+<text x="44" y="524" class="prompt" fill="#1e2428">$ ls -la</text>
+<text x="28" y="542" class="cmd" fill="#1e2428">drwxr-xr-x  </text>
+<text x="136" y="542" class="cmd" fill="#0044b8">themes/</text>
+<circle cx="35" cy="582" r="7" fill="#333340"/>
+<circle cx="53" cy="582" r="7" fill="#b80000"/>
+<circle cx="71" cy="582" r="7" fill="#1a7800"/>
+<circle cx="89" cy="582" r="7" fill="#8a6800"/>
+<circle cx="107" cy="582" r="7" fill="#0044b8"/>
+<circle cx="125" cy="582" r="7" fill="#880099"/>
+<circle cx="143" cy="582" r="7" fill="#006e80"/>
+<circle cx="161" cy="582" r="7" fill="#50555f"/>
+<rect x="364" y="468" width="340" height="140" rx="8" fill="#f5dfb3"/>
+<text x="380" y="497" class="name" fill="#1e2428">Wheat</text>
+<text x="380" y="524" class="prompt" fill="#1a7800">~</text>
+<text x="396" y="524" class="prompt" fill="#1e2428">$ ls -la</text>
+<text x="380" y="542" class="cmd" fill="#1e2428">drwxr-xr-x  </text>
+<text x="488" y="542" class="cmd" fill="#0044b8">themes/</text>
+<circle cx="387" cy="582" r="7" fill="#333340"/>
+<circle cx="405" cy="582" r="7" fill="#b80000"/>
+<circle cx="423" cy="582" r="7" fill="#1a7800"/>
+<circle cx="441" cy="582" r="7" fill="#8a6800"/>
+<circle cx="459" cy="582" r="7" fill="#0044b8"/>
+<circle cx="477" cy="582" r="7" fill="#880099"/>
+<circle cx="495" cy="582" r="7" fill="#006e80"/>
+<circle cx="513" cy="582" r="7" fill="#50555f"/>
+</svg>

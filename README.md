@@ -4,6 +4,8 @@ A collection of color themes for macOS Terminal.app.
 
 ## Themes
 
+![Preview](preview.svg)
+
 - Lavender
 - Lemon
 - Moss
